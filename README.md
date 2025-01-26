@@ -49,5 +49,5 @@ php flarum cache:clear
 ## Links
 
 - [Packagist](https://packagist.org/packages/justoverclock/newsletter)
-- [GitHub](https://github.com/justoverclock/newsletter)
+- [GitHub](https://github.com/justoverclockl/newsletter)
 - [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
